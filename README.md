@@ -1,2 +1,2 @@
 # GDELT-RSA
-GDELT Renewable Energy Acceptance Index Development
+GDELT Renewable Energy Social Acceptance Index Development
