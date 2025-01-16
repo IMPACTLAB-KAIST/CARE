@@ -1,2 +1,2 @@
-# GDELT-RSA
-GDELT Renewable Energy Social Acceptance Index Development
+# CARE
+Community Acceptance of Renewable Energy
